@@ -1,0 +1,1 @@
+{"NODE_ENV":"production","ENV_CONFIG":"prod","API_CONFIG":{"API_ROOT":"http://192.168.0.200:8201/vehicle-admin","DEFAULT_DOMAIN":"http://192.168.0.200:8201/vehicle-admin","DOMAIN_HEADER":"cipas"},"API_STATUS":{"OK":200,"TIMEOUT":401},"THIRD_PARTY_LINKS":{"analysis":"http://192.168.0.200:8090/carData"}}
